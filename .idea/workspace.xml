@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="change of workspace" />
+    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="change of workspace">
+      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/Beverages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/BeveragesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/Rum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/RumDeMedellin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +59,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "addTextGood",
-    "last_opened_file_path": "C:/JAVA PROJECTS/Start_Selenum_Julia",
+    "git-widget-placeholder": "HW3OOP",
+    "last_opened_file_path": "C:/JAVA PROJECTS/startSeleniumQA20/src/main/java",
     "onboarding.tips.debug.path": "C:/JAVA PROJECTS/startSeleniumQA20/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -67,7 +73,20 @@
       <recent name="C:\JAVA PROJECTS\startSeleniumQA20\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondCastingMain">
+  <component name="RunManager" selected="Application.BeveragesMain">
+    <configuration name="BeveragesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop2.BeveragesMain" />
+      <module name="startSeleniumQA20.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CastingBaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.CastingBaseExample" />
       <module name="startSeleniumQA20.test" />
@@ -122,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeveragesMain" />
         <item itemvalue="Application.SecondCastingMain" />
         <item itemvalue="Application.CastingBaseExample" />
         <item itemvalue="Application.FirstMain" />

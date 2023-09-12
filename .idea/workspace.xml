@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="change of workspace">
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/Beverages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/BeveragesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/Rum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/oop2/RumDeMedellin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seleniumour/SeleniumCssIlcarro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +55,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "HW3OOP",
-    "last_opened_file_path": "C:/JAVA PROJECTS/startSeleniumQA20/src/main/java",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/JAVA PROJECTS/startSeleniumQA20",
     "onboarding.tips.debug.path": "C:/JAVA PROJECTS/startSeleniumQA20/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",

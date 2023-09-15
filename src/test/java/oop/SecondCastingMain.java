@@ -10,8 +10,8 @@ public class SecondCastingMain {
 
         CatParent catFromKitty = (CatParent) kitty;
         //making casting of parent to child
-        System.out.println("str12" + catFromKitty.voice());// some not available
-        System.out.println("str13" + kitty.voice() + "some" + kitty.some());
+        System.out.println("str13" + catFromKitty.voice());// some not available
+        System.out.println("str14" + kitty.voice() + "some" + kitty.some());
 
         CatParent catParent = new CatParent();
 //        System.out.println(catParent.jumpHigh());//3
@@ -31,6 +31,7 @@ public class SecondCastingMain {
 //        Kitty kittyCasting = (Kitty) catParent;
 //        System.out.println("str21" + kittyCasting.voice());
 //        System.out.println("str22" + catParent.voice());
+        //error:option to get the stack trace.
 
         Animals animals = new Animals() {//skrityi class with no name
 

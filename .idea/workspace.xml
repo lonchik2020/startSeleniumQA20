@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="update HW3" />
+    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="update2 HW3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694742414803</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update2 HW3">
+      <option name="closed" value="true" />
+      <created>1694742825385</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694742825385</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +268,8 @@
     <MESSAGE value="change of workspace" />
     <MESSAGE value="gradle" />
     <MESSAGE value="update HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update HW3" />
+    <MESSAGE value="update2 HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update2 HW3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

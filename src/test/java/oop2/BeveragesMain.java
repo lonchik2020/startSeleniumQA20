@@ -8,6 +8,7 @@ public class BeveragesMain {
 
             @Override
             public int sugarLevel() {
+
                 return 23;
             }
         };
@@ -51,7 +52,8 @@ public class BeveragesMain {
             }
         };
 
-        System.out.println();
+
+
 
         AbstractBeveragesExtension abstractBeveragesExtension = new AbstractBeveragesExtension();
         System.out.println(abstractBeveragesExtension.bottleAge());

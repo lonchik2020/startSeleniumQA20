@@ -52,6 +52,15 @@ public class BeveragesMain {
             }
         };
 
+        Rum rum1 = new Rum();
+        System.out.println(rum1.sugarLevel());
+        System.out.println(rum1.influence());
+
+        Rum rum2 = new RumDeColombia();
+        System.out.println(rum2.sugarLevel());
+        System.out.println(rum2.influence());
+        //System.out.println(rum2.hangoverLevel);  //private method!!!
+
 
 
 

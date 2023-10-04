@@ -7,7 +7,7 @@ public class OneMoreMainOOPLastLesson {
         System.out.println(catParent.voice());
         System.out.println(kitty.voice());
 
-        if(catParent instanceof Kitty){
+        if(catParent instanceof Kitty){//exempliar clasa instance of objecta?!
             System.out.println("catParent instanceof Kitty");
         }else {
             System.out.println("Not catParent instanceof Kitty");

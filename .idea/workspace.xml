@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="update4 HW3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/OneMoreMainOOPLastLesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/OneMoreMainOOPLastLesson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <recent name="C:\JAVA PROJECTS\startSeleniumQA20\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BeveragesMain">
+  <component name="RunManager" selected="Application.OneMoreMainOOPLastLesson">
     <configuration name="BeveragesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop2.BeveragesMain" />
       <module name="startSeleniumQA20.test" />
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="OneMoreMainOOPLastLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.OneMoreMainOOPLastLesson" />
       <module name="startSeleniumQA20.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneMoreMainOOPLastLesson" />
         <item itemvalue="Application.BeveragesMain" />
         <item itemvalue="Application.SecondCastingMain" />
         <item itemvalue="Application.CastingBaseExample" />
         <item itemvalue="Application.FirstMain" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694905435810</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update4 HW3">
+      <option name="closed" value="true" />
+      <created>1694908431819</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694908431819</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

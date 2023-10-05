@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="commit HW4" />
+    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="commit workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696467412259</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit workspace">
+      <option name="closed" value="true" />
+      <created>1696467923854</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696467923854</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,7 +233,8 @@
     <MESSAGE value="changes from main merge" />
     <MESSAGE value="change of workspace" />
     <MESSAGE value="commit HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit HW4" />
+    <MESSAGE value="commit workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

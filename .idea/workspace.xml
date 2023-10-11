@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="commit workspace" />
+    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="commit workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,12 +40,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lonchik2020"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lonchik2020&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -81,7 +83,7 @@
       <recent name="C:\JAVA PROJECTS\startSeleniumQA20\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LocatorsSeleniumStartPhonebook.test">
+  <component name="RunManager" selected="Application.BeveragesMain">
     <configuration name="BeveragesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop2.BeveragesMain" />
       <module name="startSeleniumQA20.test" />
@@ -336,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696985130058</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit workspace">
+      <option name="closed" value="true" />
+      <created>1696986171160</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696986171160</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

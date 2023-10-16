@@ -40,13 +40,10 @@ public class SeleniumXpathIlcarro {
         System.out.println("length of list of inputs with id: " + listInputs.size());
 
         WebElement parentOfInput = driver.findElement(By.xpath("//input[@id='city']/.."));
-        System.out.println("print attribute name " + parentOfInput.getAttribute("class"));
+        System.out.println("print attribute name " + parentOfInput.getAttribute("class")) ;
 
         System.out.println(driver.findElement(By.xpath("//h1/following-sibling::h2")).getText());
         System.out.println(driver.findElement(By.xpath("//h2/preceding-sibling::h1")).getText());
-
-
-
 
 
     }
@@ -55,5 +52,5 @@ public class SeleniumXpathIlcarro {
     @AfterClass
     public void postConditions(){
         driver.quit();
-    }
+   }
 }

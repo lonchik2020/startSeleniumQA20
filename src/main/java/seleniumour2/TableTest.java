@@ -59,7 +59,8 @@ public class TableTest {
         System.out.println("third row:" + thirdRow.getText());
 
         //find locator for the last column
-        WebElement lastColumn = driver.findElement(By.cssSelector("#customers tr:nth-of-type(3)"));
+        WebElement lastColumn = driver.findElement(By.cssSelector("#customers td:last-child"));
+        System.out.println("last column:" + lastColumn.getText());
 
 
 

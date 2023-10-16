@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="L6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumour2/SeleniumXpathIlcarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumour2/SeleniumXpathIlcarro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumour2/SeleniumXpathPhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumour2/SeleniumXpathPhoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumour2/TableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumour2/TableTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="24b411c3-a9c8-40f3-88cc-847e8dfd858f" name="Changes" comment="HW6 TABLE + PHONEBOOK" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -378,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697373315655</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="HW6 TABLE + PHONEBOOK">
+      <option name="closed" value="true" />
+      <created>1697415461546</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697415461546</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -393,7 +396,8 @@
     <MESSAGE value="update4 HW3" />
     <MESSAGE value="commit workspace" />
     <MESSAGE value="L6" />
-    <option name="LAST_COMMIT_MESSAGE" value="L6" />
+    <MESSAGE value="HW6 TABLE + PHONEBOOK" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6 TABLE + PHONEBOOK" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
